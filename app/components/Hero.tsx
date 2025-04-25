@@ -90,7 +90,7 @@ export default function Hero() {
             variants={itemVariants}
             className="max-w-2xl mx-auto text-xl text-gray-600 mb-10 leading-relaxed"
           >
-            We're a forward-thinking app studio building innovative solutions that empower users with intelligence, simplicity, and beauty.
+            We&apos;re a forward-thinking app studio building innovative solutions that empower users with intelligence, simplicity, and beauty.
           </motion.p>
         </motion.div>
         
